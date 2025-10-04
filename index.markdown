@@ -1,4 +1,4 @@
-![Jiya's Portfolio Banner](Images/banner.jpg)
+![Jiya's Portfolio Banner](Images/Banner.jpg)
 
 # 👋 Hi, I'm Jiya John
 
