@@ -1,3 +1,5 @@
+![Jiya's Portfolio Banner](images/banner.jpg)
+
 # 👋 Hi, I'm Jiya John
 
 Welcome to my digital portfolio! I'm an early-career web developer and creative technologist exploring the intersection of code, hardware, and art. I thrive on building accessible, visually engaging experiences and love integrating traditional art into modern digital formats.
@@ -16,4 +18,4 @@ Welcome to my digital portfolio! I'm an early-career web developer and creative 
 - Wire and configure a 48V 40A brushless DC motor controller
 - Strengthen my coding confidence through beginner-friendly web and game projects
 
-[View Projects](projects.markdown) | [Contact Me](contact.markdown)
+[View Projects](projects.markdown) | [Contact Me](contacts.markdown)
