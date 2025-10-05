@@ -48,4 +48,4 @@ Additionally, I added features to track inventory in real-time and generate deta
 
 Skills: HTML · C (Programming Language) 
 
-[Back to Home](index.markdown) | [Contact Me](contact.markdown)
+[Back to Home](index.markdown) | [Contact Me](contacts.markdown)
