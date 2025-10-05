@@ -30,6 +30,8 @@ Developed a system for crop prediction using IoT and machine learning, significa
 
 For plant disease detection, the system employs image processing technology to identify potential diseases early. Implemented logistic regression and K-Means clustering models to refine the accuracy of disease detection. The logistic regression model classifies the likelihood of disease presence based on various environmental factors, while the K-Means model clusters similar data points to identify patterns and anomalies in crop health. This dual-model approach not only improves the reliability of predictions but also provides actionable insights that help farmers make informed decisions, ultimately enhancing overall agricultural productivity by reducing crop losses and optimizing resource usage.
 
+![Random Forest Algorithm](Images/random_forest.png)
+
 Skills: Machine Learning · HTML · Python (Programming Language) · Random Forest Model · Internet of Things (IoT)
 
 ## 📝 Document Controller for Construction Field
