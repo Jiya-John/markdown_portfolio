@@ -1,6 +1,6 @@
 # Projects
 
-Here are a few highlights from my ongoing journey in tech and art:
+Here are a few projects from my ongoing journey in tech:
 
 ## 🌐 Real-time Sentiment Analysis on Amazon Reviews
 
