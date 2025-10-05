@@ -16,13 +16,13 @@ This portfolio is a window into my journey through code, creativity, and curiosi
 
 ## Skills
 
-### Programming & Development
+### 💻 Programming & Development
 - HTML, CSS, JavaScript, Python, C#, C, C++
 - UI/UX principles
 - Object-Oriented Programming (OOP)
 - Problem solving and Critical thinking
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 - Machine learning and Generative models
 - Image processing
 - Model evaluation metrices
