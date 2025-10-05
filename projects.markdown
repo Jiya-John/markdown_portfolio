@@ -2,11 +2,23 @@
 
 Here are a few highlights from my ongoing journey in tech and art:
 
-## 🌐 Splash Page & Portfolio
-A responsive HTML/CSS splash page showcasing my interests in IT and AI/ML.
+## 🌐 Real-time Sentiment Analysis on Amazon Reviews
 
-## ⚙️ Logic-Driven Game (C#/.NET)
-A minimalist game built without engines, focusing on core logic and user interaction.
+Predicting customer sentiment (star rating) from review data in a near-real-time pipeline. Simulated streaming using batched ingestion of a static dataset. Used PySpark (for streaming and ML), scikit-learn, Parquet, Matplotlib. Processed over 30 million Amazon reviews simulating streaming ingestion. Achieved strong classification performance using Logistic Regression.
+
+## Yelp Review Sentiment Classification Using LSTM and DistilBERT
+
+Project to develop and compare two deep learning models — LSTM and DistilBERT — to classify Yelp reviews into sentiment categories (Positive, Neutral or Negative).  
+LSTM: A sequential model suitable for capturing long-term dependencies in text.  
+DistilBERT: A transformer-based model that provides contextual word embeddings and has been fine-tuned for classification tasks.
+
+Steps performed include dataset curation & relabeling, text preprocessing, model development & tuning, evaluation using precision, recall, F1 score, interpretability analysis using LIME. 
+
+## ⚙️ Conversational AI using Dailydialog dataset
+
+Developed a generative AI model that can simulate human-like conversations by understanding and maintaining context across dialogue turns. Used a Transformer-based generative model (GPT-2) and fine-tuned on the DailyDialog dataset. Performed preprocessing and cleaning of dataset (lowercasing, punctuation removal, padding),
+tokenization and prepared the dataset for GPT-2. Also did fine-tuning GPT-2 using Hugging Face Transformers. To evaluate the model used BLEO and perplexity.
+
 
 ## 🌱 Crop Yield Prediction and Plant Disease Detection
 
