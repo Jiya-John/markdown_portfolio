@@ -1,8 +1,16 @@
 ![Jiya's Portfolio Banner](Images/Banner.jpg)
 
-# 👋 Hi, I'm Jiya John
+# Hi, I'm Jiya John
 
-Welcome to my digital portfolio! I'm an early-career web developer and creative technologist exploring the intersection of code, hardware, and art. I thrive on building accessible, visually engaging experiences and love integrating traditional art into modern digital formats.
+Welcome to my digital portfolio!   
+
+Driven by curiosity and a love for technology, I explore the frontiers of AI, Machine Learning, and web development to create impactful solutions. 
+
+Currently studying Web development at [Humber College](https://humber.ca/), I’ve completed AI-ML course, with advanced AI/ML projects and bring hands-on experience from my role as an Information Security Manager at TCS, where I led MEA-region data security initiatives and trained associates on cyber threat prevention.
+
+With a foundation in Computer Science Engineering, I’ve built intelligent systems, secure infrastructures, and responsive web interfaces. I thrive in dynamic environments, collaborating on research and staying active in tech communities.
+
+This portfolio is a window into my journey through code, creativity, and curiosity.
 
 ## 💡 What I Do
 
